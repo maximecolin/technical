@@ -113,4 +113,3 @@ security:
             form_login:
                 provider: client
 ```
-            id: app.symfony_client_provider
