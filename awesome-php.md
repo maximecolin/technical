@@ -6,4 +6,4 @@
 
 ## Image manipulation
 
-* [Intervention Image](http://image.intervention.io/)
+* [Intervention Image](http://image.intervention.io/): an open source PHP image handling and manipulation library
