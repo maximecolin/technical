@@ -15,3 +15,7 @@
 ## LDAP
 
 * [LDAP](https://github.com/phpDS/LDAP): A pure PHP LDAP library.
+
+## Twitter
+
+* [abraham/twitteroauth](https://github.com/abraham/twitteroauth): The most popular PHP library for use with the Twitter OAuth REST API.
