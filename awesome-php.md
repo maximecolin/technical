@@ -4,6 +4,10 @@
 
 * [DateTimePeriod](https://github.com/pwm/datetime-period): A DateTimePeriod library for working with temporal intervals
 
+## Queueing
+
+* http://tech.yappa.be/enqueue-symfony-console-commands
+
 ## Image manipulation
 
 * [Intervention Image](http://image.intervention.io/): an open source PHP image handling and manipulation library
